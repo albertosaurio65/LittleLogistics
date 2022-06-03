@@ -77,6 +77,8 @@
   "item.littlelogistics.tug_route.node_named": "%s. %s",
   "item.littlelogistics.tug_route.node_line": "Nodo %s: %s, %s",
   
+  "item.littlelogistics.conductors_wrench.description": "Se puede usar para rotar raíles de minecraft y configurar bloques de Little Logistics.",
+  
   "item.littlelogistics.locomotive_route.description": "Haga clic con el botón derecho en un carril para agregarlo o eliminarlo de la ruta.",
   "item.littlelogistics.locomotive_route.num_nodes": "Nodos en la ruta: %s",
   "item.littlelogistics.locomotive_route.added": "Nodo de ruta agregado en X:%s Y:%s Z:%s",
